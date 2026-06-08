@@ -1,4 +1,4 @@
-# ContextBridge 🌉
+# ContextBridge 
 
 > Save and restore AI conversation context across 10+ platforms with cloud sync.
 
